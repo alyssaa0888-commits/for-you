@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(211, 162, 176);
+}
+.heart {
+  font-size: 100px;
+}
+#heart-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.heart {
+  position: absolute;
+}
+.heart {
+  width: 100px;
+}
